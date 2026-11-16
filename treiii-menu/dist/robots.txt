@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://treiii.online/sitemap.xml
