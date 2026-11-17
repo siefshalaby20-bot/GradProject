@@ -1,4 +1,4 @@
-:root{--bg:#1d130e;--surface:#27190f;--line:#3b2a1e;--gold:#d2b98f;--text:#f2e8d8;--muted:#b6a48b;--serif:"Cormorant Garamond",Georgia,serif;--sans:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;--script:"Allura","Snell Roundhand",cursive}
+:root{--bg:#1d130e;--surface:#27190f;--line:#3b2a1e;--gold:#d2b98f;--text:#f2e8d8;--muted:#b6a48b;--ink:#1d130e;--serif:"Cormorant Garamond",Georgia,serif;--sans:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;--script:"Allura","Snell Roundhand",cursive}
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth;scroll-padding-top:64px;-webkit-text-size-adjust:100%}
 body{background:var(--bg);color:var(--text);font:16px/1.5 var(--sans);overflow-x:hidden}
@@ -11,11 +11,11 @@ a{color:inherit}
 .hero h1.sr{position:absolute;left:-9999px}
 .explore{margin-top:36px;font-family:var(--serif);font-size:26px;color:var(--text)}
 .explore:after{content:"";display:block;width:40px;height:1px;background:var(--gold);margin:12px auto 0}
-nav.cats{position:sticky;top:0;z-index:10;background:rgba(29,19,14,.96);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
+nav.cats{position:sticky;top:0;z-index:10;background:var(--bg);backdrop-filter:blur(8px);border-bottom:1px solid var(--line)}
 nav.cats ul{display:flex;gap:8px;overflow-x:auto;list-style:none;padding:10px 16px;scrollbar-width:none;max-width:760px;margin:auto}
 nav.cats ul::-webkit-scrollbar{display:none}
 nav.cats a{display:block;white-space:nowrap;text-decoration:none;font-size:14px;padding:8px 16px;border:1px solid var(--line);border-radius:999px;color:var(--muted);min-height:40px;line-height:22px}
-nav.cats a.active{background:var(--gold);color:#1d130e;border-color:var(--gold)}
+nav.cats a.active{background:var(--gold);color:var(--ink);border-color:var(--gold)}
 main{max-width:760px;margin:0 auto;padding:8px 20px 56px}
 section{padding-top:36px}
 section h2{font-family:var(--serif);font-weight:500;font-size:34px;color:var(--gold);margin-bottom:6px}
@@ -35,3 +35,9 @@ footer .wordmark{font-size:44px}
 @media(hover:hover){nav.cats a:hover{border-color:var(--gold);color:var(--text)}.item{transition:background .2s}.item:hover{background:var(--surface)}}
 @media(min-width:700px){.name{font-size:23px}.hero{padding-top:96px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+[data-theme=light]{--bg:#faf5ec;--surface:#f1e8d8;--line:#e2d4bb;--gold:#8a6a3b;--text:#2a1c14;--muted:#6b5844;--ink:#faf5ec}
+.theme{position:absolute;top:14px;right:14px;width:40px;height:40px;border-radius:50%;border:1px solid var(--line);background:transparent;color:var(--gold);font-size:18px;cursor:pointer}
+.theme:before{content:"☾"}[data-theme=light] .theme:before{content:"☀"}
+.cat-img{width:44px;height:44px;border-radius:50%;object-fit:cover;vertical-align:middle;margin-right:12px}
+section h2{display:flex;align-items:center}

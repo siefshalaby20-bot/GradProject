@@ -13,3 +13,5 @@
   addEventListener('scroll',function(){if(!t)t=requestAnimationFrame(update)},{passive:true});
   update();
 })();
+
+(function(){var b=document.getElementById('theme');if(!b)return;b.addEventListener('click',function(){var d=document.documentElement,n=d.dataset.theme==='light'?'dark':'light';d.dataset.theme=n;try{localStorage.setItem('theme',n)}catch(e){}})})();

@@ -1,0 +1,5 @@
+site/data/auth.json
+site/data/.lock
+site/uploads/*
+!site/uploads/.htaccess
+!site/uploads/.gitkeep
