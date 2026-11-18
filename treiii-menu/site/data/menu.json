@@ -11,301 +11,1309 @@
   },
   "categories": [
     {
-      "id": "coffee",
-      "name": "Coffee",
+      "id": "c00",
+      "name": "Hot Drinks",
+      "image": null,
       "items": [
         {
-          "name": "Espresso",
-          "description": "Rich, concentrated single or double shot.",
-          "price": null,
-          "id": "p1",
-          "image": null,
+          "name": "سنجل اسبريسو",
+          "description": "",
+          "price": 50,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p001"
         },
         {
-          "name": "Americano",
-          "description": "Espresso with hot water.",
-          "price": null,
-          "id": "p2",
-          "image": null,
+          "name": "دبل اسبريسو",
+          "description": "",
+          "price": 75,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p002"
         },
         {
-          "name": "Cappuccino",
-          "description": "Espresso, steamed milk and velvety foam.",
-          "price": null,
-          "badge": "Best Seller",
-          "id": "p3",
-          "image": null,
-          "available": true
-        },
-        {
-          "name": "Latte",
-          "description": "Espresso with silky steamed milk.",
-          "price": null,
-          "id": "p4",
-          "image": null,
+          "name": "ميكاتو",
+          "description": "",
+          "price": 80,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p003"
         },
         {
-          "name": "Spanish Latte",
-          "description": "Latte sweetened with condensed milk.",
-          "price": null,
-          "badge": "Recommended",
-          "id": "p5",
-          "image": null,
-          "available": true
-        },
-        {
-          "name": "Mocha",
-          "description": "Espresso, chocolate and steamed milk.",
-          "price": null,
-          "id": "p6",
-          "image": null,
+          "name": "كورتادو",
+          "description": "",
+          "price": 90,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p004"
         },
         {
-          "name": "Flat White",
-          "description": "Double espresso with thin microfoam milk.",
-          "price": null,
-          "id": "p7",
-          "image": null,
+          "name": "فلات وايت",
+          "description": "",
+          "price": 95,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p005"
+        },
+        {
+          "name": "لاتيه",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p006"
+        },
+        {
+          "name": "كابتشينو",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p007"
+        },
+        {
+          "name": "اسبانيش لاتيه",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p008"
+        },
+        {
+          "name": "موكا",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p009"
+        },
+        {
+          "name": "وايت موكا",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p010"
+        },
+        {
+          "name": "امريكانو",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p011"
+        },
+        {
+          "name": "افوكادو",
+          "description": "",
+          "price": 95,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p012"
         }
-      ],
-      "image": null
+      ]
     },
     {
-      "id": "iced-coffee",
-      "name": "Iced Coffee",
+      "id": "c01",
+      "name": "Iced Drink",
+      "image": null,
       "items": [
         {
-          "name": "Iced Latte",
-          "description": "Espresso and cold milk over ice.",
-          "price": null,
-          "id": "p8",
-          "image": null,
+          "name": "لاتيه",
+          "description": "",
+          "price": 105,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p013"
         },
         {
-          "name": "Iced Spanish Latte",
-          "description": "Iced latte with condensed milk.",
-          "price": null,
-          "badge": "Best Seller",
-          "id": "p9",
-          "image": null,
-          "available": true
-        },
-        {
-          "name": "Iced Mocha",
-          "description": "Espresso, chocolate and cold milk over ice.",
-          "price": null,
-          "id": "p10",
-          "image": null,
+          "name": "اسبانيش لاتيه",
+          "description": "",
+          "price": 115,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p014"
         },
         {
-          "name": "Iced Americano",
-          "description": "Espresso over ice and cold water.",
-          "price": null,
-          "id": "p11",
-          "image": null,
+          "name": "كابتشينو",
+          "description": "",
+          "price": 105,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p015"
         },
         {
-          "name": "Cold Brew",
-          "description": "Slow-steeped, smooth and low in acidity.",
-          "price": null,
-          "badge": "New",
-          "id": "p12",
+          "name": "موكا",
+          "description": "",
+          "price": 115,
+          "available": true,
+          "badge": null,
           "image": null,
-          "available": true
+          "id": "p016"
+        },
+        {
+          "name": "وايت موكا",
+          "description": "",
+          "price": 115,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p017"
+        },
+        {
+          "name": "كراميل ميكاتو",
+          "description": "",
+          "price": 115,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p018"
+        },
+        {
+          "name": "ديرتي اسبريسو",
+          "description": "",
+          "price": 130,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p019"
+        },
+        {
+          "name": "امريكانو",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p020"
         }
-      ],
-      "image": null
+      ]
     },
     {
-      "id": "frappe",
+      "id": "c02",
+      "name": "Ice Tea",
+      "image": null,
+      "items": [
+        {
+          "name": "كلاسيك",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p021"
+        },
+        {
+          "name": "ميلك",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p022"
+        },
+        {
+          "name": "خوخ",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p023"
+        },
+        {
+          "name": "باشون",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p024"
+        },
+        {
+          "name": "رازبيري",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p025"
+        }
+      ]
+    },
+    {
+      "id": "c03",
+      "name": "Milkshake",
+      "image": null,
+      "items": [
+        {
+          "name": "فانيليا",
+          "description": "",
+          "price": 95,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p026"
+        },
+        {
+          "name": "شولكيت",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p027"
+        },
+        {
+          "name": "كراميل",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p028"
+        },
+        {
+          "name": "نوتيلا",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p029"
+        },
+        {
+          "name": "اوريو",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p030"
+        },
+        {
+          "name": "لوتس",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p031"
+        },
+        {
+          "name": "كيندر",
+          "description": "",
+          "price": 120,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p032"
+        },
+        {
+          "name": "بيستاشيو",
+          "description": "",
+          "price": 140,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p033"
+        },
+        {
+          "name": "بلويرى",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p034"
+        },
+        {
+          "name": "فراونه",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p035"
+        },
+        {
+          "name": "مانجا",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p036"
+        },
+        {
+          "name": "خوخ",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p037"
+        },
+        {
+          "name": "رازبرى",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p038"
+        }
+      ]
+    },
+    {
+      "id": "c04",
+      "name": "Mojito",
+      "image": null,
+      "items": [
+        {
+          "name": "ڤيرجن",
+          "description": "",
+          "price": 75,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p039"
+        },
+        {
+          "name": "بلوبيري",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p040"
+        },
+        {
+          "name": "فراوله",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p041"
+        },
+        {
+          "name": "رازبيري",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p042"
+        },
+        {
+          "name": "خوخ",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p043"
+        },
+        {
+          "name": "باشون",
+          "description": "",
+          "price": 105,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p044"
+        },
+        {
+          "name": "مانجا",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p045"
+        },
+        {
+          "name": "بلوكوكونت",
+          "description": "",
+          "price": 105,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p046"
+        },
+        {
+          "name": "رمان",
+          "description": "",
+          "price": 105,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p047"
+        }
+      ]
+    },
+    {
+      "id": "c05",
       "name": "Frappe",
+      "image": null,
       "items": [
         {
-          "name": "Coffee Frappe",
-          "description": "Blended iced coffee, creamy and cold.",
-          "price": null,
-          "id": "p13",
-          "image": null,
+          "name": "ڤانيليا",
+          "description": "",
+          "price": 100,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p048"
         },
         {
-          "name": "Chocolate Frappe",
-          "description": "Blended chocolate, milk and ice.",
-          "price": null,
-          "id": "p14",
-          "image": null,
+          "name": "كراميل",
+          "description": "",
+          "price": 110,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p049"
+        },
+        {
+          "name": "سالتد كراميل",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p050"
+        },
+        {
+          "name": "نوتيلا",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p051"
+        },
+        {
+          "name": "لوتس",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p052"
         }
-      ],
-      "image": null
+      ]
     },
     {
-      "id": "matcha",
+      "id": "c06",
+      "name": "Fresh Juice",
+      "image": null,
+      "items": [
+        {
+          "name": "مانجا",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p053"
+        },
+        {
+          "name": "فراوله",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p054"
+        },
+        {
+          "name": "جوافه",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p055"
+        },
+        {
+          "name": "موز حليب",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p056"
+        },
+        {
+          "name": "كيوي",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p057"
+        },
+        {
+          "name": "افوكادو",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p058"
+        },
+        {
+          "name": "برتقال",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p059"
+        },
+        {
+          "name": "ليمون نعناع",
+          "description": "",
+          "price": 75,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p060"
+        },
+        {
+          "name": "بطيخ",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p061"
+        }
+      ]
+    },
+    {
+      "id": "c07",
+      "name": "Smoothie",
+      "image": null,
+      "items": [
+        {
+          "name": "مانجا",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p062"
+        },
+        {
+          "name": "فراوله",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p063"
+        },
+        {
+          "name": "بلوبيري",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p064"
+        },
+        {
+          "name": "بطيخ",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p065"
+        },
+        {
+          "name": "ليمون نعناع",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p066"
+        }
+      ]
+    },
+    {
+      "id": "c08",
       "name": "Matcha",
+      "image": null,
       "items": [
         {
-          "name": "Matcha Latte",
-          "description": "Ceremonial-style matcha with milk, hot or iced.",
-          "price": null,
-          "id": "p15",
-          "image": null,
+          "name": "لاتيه هوت",
+          "description": "",
+          "price": 100,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p067"
+        },
+        {
+          "name": "اسبانش هوت",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p068"
+        },
+        {
+          "name": "لاتيه",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p069"
+        },
+        {
+          "name": "اسبانيش",
+          "description": "",
+          "price": 115,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p070"
+        },
+        {
+          "name": "بلوبيري",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p071"
+        },
+        {
+          "name": "فراوله",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p072"
+        },
+        {
+          "name": "كراميل",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p073"
+        },
+        {
+          "name": "مانجا",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p074"
         }
-      ],
-      "image": null
+      ]
     },
     {
-      "id": "tea",
-      "name": "Tea",
+      "id": "c09",
+      "name": "Crepe",
+      "image": null,
       "items": [
         {
-          "name": "Black Tea",
-          "description": "Classic and bold.",
-          "price": null,
-          "id": "p16",
-          "image": null,
+          "name": "دبى",
+          "description": "",
+          "price": 180,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p075"
         },
         {
-          "name": "Green Tea",
-          "description": "Light and fresh.",
-          "price": null,
-          "id": "p17",
-          "image": null,
+          "name": "باجيك كريب",
+          "description": "",
+          "price": 140,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p076"
         },
         {
-          "name": "Herbal Tea",
-          "description": "Caffeine-free infusion.",
-          "price": null,
-          "id": "p18",
-          "image": null,
+          "name": "نوتيلا",
+          "description": "",
+          "price": 120,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p077"
+        },
+        {
+          "name": "فوتتشيني",
+          "description": "",
+          "price": 120,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p078"
         }
-      ],
-      "image": null
+      ]
     },
     {
-      "id": "fresh-drinks",
-      "name": "Fresh Drinks",
+      "id": "c10",
+      "name": "Waffle",
+      "image": null,
       "items": [
         {
-          "name": "Orange Juice",
-          "description": "Freshly squeezed.",
-          "price": null,
-          "id": "p19",
-          "image": null,
+          "name": "نوتيلا",
+          "description": "",
+          "price": 70,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p079"
         },
         {
-          "name": "Lemon Mint",
-          "description": "Fresh lemon and mint, blended.",
-          "price": null,
-          "id": "p20",
-          "image": null,
+          "name": "لوتس",
+          "description": "",
+          "price": 70,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p080"
+        },
+        {
+          "name": "بستاتيو",
+          "description": "",
+          "price": 120,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p081"
+        },
+        {
+          "name": "كيندر",
+          "description": "",
+          "price": 120,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p082"
+        },
+        {
+          "name": "فورسيزون",
+          "description": "",
+          "price": 120,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p083"
+        },
+        {
+          "name": "نوتيلا فروت",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p084"
+        },
+        {
+          "name": "وايت اوريو",
+          "description": "",
+          "price": 120,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p085"
         }
-      ],
-      "image": null
+      ]
     },
     {
-      "id": "soft-drinks",
-      "name": "Soft Drinks",
+      "id": "c11",
+      "name": "Waffle Addition",
+      "image": null,
       "items": [
         {
-          "name": "Soft Drink",
-          "description": "Ask your server for today's selection.",
-          "price": null,
-          "id": "p21",
-          "image": null,
+          "name": "فواكه",
+          "description": "",
+          "price": 30,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p086"
         },
         {
-          "name": "Water",
-          "description": "Still or sparkling.",
-          "price": null,
-          "id": "p22",
-          "image": null,
+          "name": "مكسرات",
+          "description": "",
+          "price": 30,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p087"
         }
-      ],
-      "image": null
+      ]
     },
     {
-      "id": "desserts",
-      "name": "Desserts",
+      "id": "c12",
+      "name": "Pancakes",
+      "image": null,
       "items": [
         {
-          "name": "Cheesecake",
-          "description": "Placeholder — replace with your dessert.",
-          "price": null,
-          "id": "p23",
-          "image": null,
+          "name": "نوتيلا — 12 قطعة",
+          "description": "",
+          "price": 60,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p088"
         },
         {
-          "name": "Brownie",
-          "description": "Placeholder — replace with your dessert.",
-          "price": null,
-          "id": "p24",
-          "image": null,
+          "name": "نوتيلا — 20 قطعة",
+          "description": "",
+          "price": 90,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p089"
+        },
+        {
+          "name": "لوتس — 12 قطعة",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p090"
+        },
+        {
+          "name": "لوتس — 20 قطعة",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p091"
+        },
+        {
+          "name": "كيندر — 12 قطعة",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p092"
+        },
+        {
+          "name": "كيندر — 20 قطعة",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p093"
+        },
+        {
+          "name": "بيستاشيو — 12 قطعة",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p094"
+        },
+        {
+          "name": "بيستاشيو — 20 قطعة",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p095"
+        },
+        {
+          "name": "فورسيزون — 12 قطعة",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p096"
+        },
+        {
+          "name": "فورسيزون — 20 قطعة",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p097"
+        },
+        {
+          "name": "فروت — 12 قطعة",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p098"
+        },
+        {
+          "name": "فروت — 20 قطعة",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p099"
+        },
+        {
+          "name": "اوريو — 12 قطعة",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p100"
+        },
+        {
+          "name": "اوريو — 20 قطعة",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p101"
+        },
+        {
+          "name": "وايت — 12 قطعة",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p102"
+        },
+        {
+          "name": "وايت — 20 قطعة",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p103"
         }
-      ],
-      "image": null
+      ]
     },
     {
-      "id": "food",
-      "name": "Food & Snacks",
+      "id": "c13",
+      "name": "Hot Chocolate",
+      "image": null,
       "items": [
         {
-          "name": "Croissant",
-          "description": "Placeholder — replace with your item.",
-          "price": null,
-          "id": "p25",
-          "image": null,
+          "name": "كلاسيك",
+          "description": "",
+          "price": 80,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p104"
         },
         {
-          "name": "Sandwich",
-          "description": "Placeholder — replace with your item.",
-          "price": null,
-          "id": "p26",
-          "image": null,
+          "name": "مارشميلو",
+          "description": "",
+          "price": 100,
           "available": true,
-          "badge": null
+          "badge": null,
+          "image": null,
+          "id": "p105"
+        },
+        {
+          "name": "مارشميلو فلف",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p106"
+        },
+        {
+          "name": "تشولوز",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p107"
         }
-      ],
-      "image": null
+      ]
+    },
+    {
+      "id": "c14",
+      "name": "Om Ali",
+      "image": null,
+      "items": [
+        {
+          "name": "نوتيلا",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p108"
+        },
+        {
+          "name": "ساده",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p109"
+        },
+        {
+          "name": "مكسرات",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p110"
+        },
+        {
+          "name": "فروت",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p111"
+        },
+        {
+          "name": "تري",
+          "description": "",
+          "price": 130,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p112"
+        }
+      ]
+    },
+    {
+      "id": "c15",
+      "name": "Freska",
+      "image": null,
+      "items": [
+        {
+          "name": "نوتيلا",
+          "description": "",
+          "price": 40,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p113"
+        },
+        {
+          "name": "لوتس",
+          "description": "",
+          "price": 40,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p114"
+        },
+        {
+          "name": "بيستاشيو",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p115"
+        },
+        {
+          "name": "كيندر",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p116"
+        },
+        {
+          "name": "اوريو",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p117"
+        },
+        {
+          "name": "فراوله",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p118"
+        }
+      ]
+    },
+    {
+      "id": "c16",
+      "name": "Turkish Coffee",
+      "image": null,
+      "items": [
+        {
+          "name": "تركي Single",
+          "description": "",
+          "price": 35,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p119"
+        },
+        {
+          "name": "تركي Double",
+          "description": "",
+          "price": 55,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p120"
+        },
+        {
+          "name": "فرنساوي Single",
+          "description": "",
+          "price": 45,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p121"
+        },
+        {
+          "name": "فرنساوي Double",
+          "description": "",
+          "price": 65,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p122"
+        },
+        {
+          "name": "بندق Single",
+          "description": "",
+          "price": 45,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p123"
+        },
+        {
+          "name": "بندق Double",
+          "description": "",
+          "price": 65,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p124"
+        }
+      ]
+    },
+    {
+      "id": "c17",
+      "name": "Tea & Hot Drinks",
+      "image": null,
+      "items": [
+        {
+          "name": "شاي",
+          "description": "",
+          "price": 20,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p125"
+        },
+        {
+          "name": "شاي اخضر",
+          "description": "",
+          "price": 25,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p126"
+        },
+        {
+          "name": "شاي كرك",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p127"
+        },
+        {
+          "name": "سحلب",
+          "description": "",
+          "price": 50,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p128"
+        },
+        {
+          "name": "سحلب مكسرات",
+          "description": "",
+          "price": 70,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p129"
+        },
+        {
+          "name": "هوت سيدر",
+          "description": "",
+          "price": 50,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p130"
+        },
+        {
+          "name": "اعشاب",
+          "description": "",
+          "price": 25,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p131"
+        }
+      ]
     }
   ]
 }

@@ -23,7 +23,7 @@ function img(?string $p, int $size, string $cls = ''): string {
 <meta property="og:image" content="<?= esc($s['url']) ?>/<?= esc($s['ogImage']) ?>"><meta name="twitter:card" content="summary_large_image">
 <script>try{var t=localStorage.getItem('theme');if(t)document.documentElement.dataset.theme=t}catch(e){}</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Allura&family=Cairo:wght@500;600&family=Cormorant+Garamond:wght@500;600&family=Inter:wght@400;500;600&display=swap">
 <link rel="stylesheet" href="/style.css?v=<?= $v ?>">
 </head>
 <body>
