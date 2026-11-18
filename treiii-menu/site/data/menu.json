@@ -16,7 +16,7 @@
       "image": null,
       "items": [
         {
-          "name": "سنجل اسبريسو",
+          "name": "Single Espresso",
           "description": "",
           "price": 50,
           "available": true,
@@ -25,7 +25,7 @@
           "id": "p001"
         },
         {
-          "name": "دبل اسبريسو",
+          "name": "Double Espresso",
           "description": "",
           "price": 75,
           "available": true,
@@ -34,7 +34,7 @@
           "id": "p002"
         },
         {
-          "name": "ميكاتو",
+          "name": "Macchiato",
           "description": "",
           "price": 80,
           "available": true,
@@ -43,7 +43,7 @@
           "id": "p003"
         },
         {
-          "name": "كورتادو",
+          "name": "Cortado",
           "description": "",
           "price": 90,
           "available": true,
@@ -52,7 +52,7 @@
           "id": "p004"
         },
         {
-          "name": "فلات وايت",
+          "name": "Flat White",
           "description": "",
           "price": 95,
           "available": true,
@@ -61,7 +61,7 @@
           "id": "p005"
         },
         {
-          "name": "لاتيه",
+          "name": "Latte",
           "description": "",
           "price": 100,
           "available": true,
@@ -70,7 +70,7 @@
           "id": "p006"
         },
         {
-          "name": "كابتشينو",
+          "name": "Cappuccino",
           "description": "",
           "price": 100,
           "available": true,
@@ -79,7 +79,7 @@
           "id": "p007"
         },
         {
-          "name": "اسبانيش لاتيه",
+          "name": "Spanish Latte",
           "description": "",
           "price": 110,
           "available": true,
@@ -88,7 +88,7 @@
           "id": "p008"
         },
         {
-          "name": "موكا",
+          "name": "Mocha",
           "description": "",
           "price": 110,
           "available": true,
@@ -97,7 +97,7 @@
           "id": "p009"
         },
         {
-          "name": "وايت موكا",
+          "name": "White Mocha",
           "description": "",
           "price": 110,
           "available": true,
@@ -106,7 +106,7 @@
           "id": "p010"
         },
         {
-          "name": "امريكانو",
+          "name": "Americano",
           "description": "",
           "price": 80,
           "available": true,
@@ -115,7 +115,7 @@
           "id": "p011"
         },
         {
-          "name": "افوكادو",
+          "name": "Avocado",
           "description": "",
           "price": 95,
           "available": true,
@@ -131,7 +131,7 @@
       "image": null,
       "items": [
         {
-          "name": "لاتيه",
+          "name": "Latte",
           "description": "",
           "price": 105,
           "available": true,
@@ -140,7 +140,7 @@
           "id": "p013"
         },
         {
-          "name": "اسبانيش لاتيه",
+          "name": "Spanish Latte",
           "description": "",
           "price": 115,
           "available": true,
@@ -149,7 +149,7 @@
           "id": "p014"
         },
         {
-          "name": "كابتشينو",
+          "name": "Cappuccino",
           "description": "",
           "price": 105,
           "available": true,
@@ -158,7 +158,7 @@
           "id": "p015"
         },
         {
-          "name": "موكا",
+          "name": "Mocha",
           "description": "",
           "price": 115,
           "available": true,
@@ -167,7 +167,7 @@
           "id": "p016"
         },
         {
-          "name": "وايت موكا",
+          "name": "White Mocha",
           "description": "",
           "price": 115,
           "available": true,
@@ -176,7 +176,7 @@
           "id": "p017"
         },
         {
-          "name": "كراميل ميكاتو",
+          "name": "Caramel Macchiato",
           "description": "",
           "price": 115,
           "available": true,
@@ -185,7 +185,7 @@
           "id": "p018"
         },
         {
-          "name": "ديرتي اسبريسو",
+          "name": "Dirty Espresso",
           "description": "",
           "price": 130,
           "available": true,
@@ -194,7 +194,7 @@
           "id": "p019"
         },
         {
-          "name": "امريكانو",
+          "name": "Americano",
           "description": "",
           "price": 90,
           "available": true,
@@ -210,7 +210,7 @@
       "image": null,
       "items": [
         {
-          "name": "كلاسيك",
+          "name": "Classic",
           "description": "",
           "price": 60,
           "available": true,
@@ -219,7 +219,7 @@
           "id": "p021"
         },
         {
-          "name": "ميلك",
+          "name": "Milk",
           "description": "",
           "price": 80,
           "available": true,
@@ -228,7 +228,7 @@
           "id": "p022"
         },
         {
-          "name": "خوخ",
+          "name": "Peach",
           "description": "",
           "price": 90,
           "available": true,
@@ -237,7 +237,7 @@
           "id": "p023"
         },
         {
-          "name": "باشون",
+          "name": "Passion",
           "description": "",
           "price": 90,
           "available": true,
@@ -246,7 +246,7 @@
           "id": "p024"
         },
         {
-          "name": "رازبيري",
+          "name": "Raspberry",
           "description": "",
           "price": 90,
           "available": true,
@@ -262,7 +262,7 @@
       "image": null,
       "items": [
         {
-          "name": "فانيليا",
+          "name": "Vanilla",
           "description": "",
           "price": 95,
           "available": true,
@@ -271,7 +271,7 @@
           "id": "p026"
         },
         {
-          "name": "شولكيت",
+          "name": "Chocolate",
           "description": "",
           "price": 100,
           "available": true,
@@ -280,7 +280,7 @@
           "id": "p027"
         },
         {
-          "name": "كراميل",
+          "name": "Caramel",
           "description": "",
           "price": 100,
           "available": true,
@@ -289,7 +289,7 @@
           "id": "p028"
         },
         {
-          "name": "نوتيلا",
+          "name": "Nutella",
           "description": "",
           "price": 110,
           "available": true,
@@ -298,7 +298,7 @@
           "id": "p029"
         },
         {
-          "name": "اوريو",
+          "name": "Oreo",
           "description": "",
           "price": 110,
           "available": true,
@@ -307,7 +307,7 @@
           "id": "p030"
         },
         {
-          "name": "لوتس",
+          "name": "Lotus",
           "description": "",
           "price": 110,
           "available": true,
@@ -316,7 +316,7 @@
           "id": "p031"
         },
         {
-          "name": "كيندر",
+          "name": "Kinder",
           "description": "",
           "price": 120,
           "available": true,
@@ -325,7 +325,7 @@
           "id": "p032"
         },
         {
-          "name": "بيستاشيو",
+          "name": "Pistachio",
           "description": "",
           "price": 140,
           "available": true,
@@ -334,7 +334,7 @@
           "id": "p033"
         },
         {
-          "name": "بلويرى",
+          "name": "Blueberry",
           "description": "",
           "price": 100,
           "available": true,
@@ -343,7 +343,7 @@
           "id": "p034"
         },
         {
-          "name": "فراونه",
+          "name": "Strawberry",
           "description": "",
           "price": 100,
           "available": true,
@@ -352,7 +352,7 @@
           "id": "p035"
         },
         {
-          "name": "مانجا",
+          "name": "Mango",
           "description": "",
           "price": 100,
           "available": true,
@@ -361,7 +361,7 @@
           "id": "p036"
         },
         {
-          "name": "خوخ",
+          "name": "Peach",
           "description": "",
           "price": 100,
           "available": true,
@@ -370,7 +370,7 @@
           "id": "p037"
         },
         {
-          "name": "رازبرى",
+          "name": "Raspberry",
           "description": "",
           "price": 100,
           "available": true,
@@ -386,7 +386,7 @@
       "image": null,
       "items": [
         {
-          "name": "ڤيرجن",
+          "name": "Virgin",
           "description": "",
           "price": 75,
           "available": true,
@@ -395,7 +395,7 @@
           "id": "p039"
         },
         {
-          "name": "بلوبيري",
+          "name": "Blueberry",
           "description": "",
           "price": 100,
           "available": true,
@@ -404,7 +404,7 @@
           "id": "p040"
         },
         {
-          "name": "فراوله",
+          "name": "Strawberry",
           "description": "",
           "price": 100,
           "available": true,
@@ -413,7 +413,7 @@
           "id": "p041"
         },
         {
-          "name": "رازبيري",
+          "name": "Raspberry",
           "description": "",
           "price": 100,
           "available": true,
@@ -422,7 +422,7 @@
           "id": "p042"
         },
         {
-          "name": "خوخ",
+          "name": "Peach",
           "description": "",
           "price": 100,
           "available": true,
@@ -431,7 +431,7 @@
           "id": "p043"
         },
         {
-          "name": "باشون",
+          "name": "Passion",
           "description": "",
           "price": 105,
           "available": true,
@@ -440,7 +440,7 @@
           "id": "p044"
         },
         {
-          "name": "مانجا",
+          "name": "Mango",
           "description": "",
           "price": 100,
           "available": true,
@@ -449,7 +449,7 @@
           "id": "p045"
         },
         {
-          "name": "بلوكوكونت",
+          "name": "Blue Coconut",
           "description": "",
           "price": 105,
           "available": true,
@@ -458,7 +458,7 @@
           "id": "p046"
         },
         {
-          "name": "رمان",
+          "name": "Pomegranate",
           "description": "",
           "price": 105,
           "available": true,
@@ -474,7 +474,7 @@
       "image": null,
       "items": [
         {
-          "name": "ڤانيليا",
+          "name": "Vanilla",
           "description": "",
           "price": 100,
           "available": true,
@@ -483,7 +483,7 @@
           "id": "p048"
         },
         {
-          "name": "كراميل",
+          "name": "Caramel",
           "description": "",
           "price": 110,
           "available": true,
@@ -492,7 +492,7 @@
           "id": "p049"
         },
         {
-          "name": "سالتد كراميل",
+          "name": "Salted Caramel",
           "description": "",
           "price": 110,
           "available": true,
@@ -501,7 +501,7 @@
           "id": "p050"
         },
         {
-          "name": "نوتيلا",
+          "name": "Nutella",
           "description": "",
           "price": 110,
           "available": true,
@@ -510,7 +510,7 @@
           "id": "p051"
         },
         {
-          "name": "لوتس",
+          "name": "Lotus",
           "description": "",
           "price": 110,
           "available": true,
@@ -526,7 +526,7 @@
       "image": null,
       "items": [
         {
-          "name": "مانجا",
+          "name": "Mango",
           "description": "",
           "price": 80,
           "available": true,
@@ -535,7 +535,7 @@
           "id": "p053"
         },
         {
-          "name": "فراوله",
+          "name": "Strawberry",
           "description": "",
           "price": 80,
           "available": true,
@@ -544,7 +544,7 @@
           "id": "p054"
         },
         {
-          "name": "جوافه",
+          "name": "Guava",
           "description": "",
           "price": 80,
           "available": true,
@@ -553,7 +553,7 @@
           "id": "p055"
         },
         {
-          "name": "موز حليب",
+          "name": "Banana Milk",
           "description": "",
           "price": 80,
           "available": true,
@@ -562,7 +562,7 @@
           "id": "p056"
         },
         {
-          "name": "كيوي",
+          "name": "Kiwi",
           "description": "",
           "price": 100,
           "available": true,
@@ -571,7 +571,7 @@
           "id": "p057"
         },
         {
-          "name": "افوكادو",
+          "name": "Avocado",
           "description": "",
           "price": 110,
           "available": true,
@@ -580,7 +580,7 @@
           "id": "p058"
         },
         {
-          "name": "برتقال",
+          "name": "Orange",
           "description": "",
           "price": 80,
           "available": true,
@@ -589,7 +589,7 @@
           "id": "p059"
         },
         {
-          "name": "ليمون نعناع",
+          "name": "Lemon Mint",
           "description": "",
           "price": 75,
           "available": true,
@@ -598,7 +598,7 @@
           "id": "p060"
         },
         {
-          "name": "بطيخ",
+          "name": "Watermelon",
           "description": "",
           "price": 80,
           "available": true,
@@ -614,7 +614,7 @@
       "image": null,
       "items": [
         {
-          "name": "مانجا",
+          "name": "Mango",
           "description": "",
           "price": 90,
           "available": true,
@@ -623,7 +623,7 @@
           "id": "p062"
         },
         {
-          "name": "فراوله",
+          "name": "Strawberry",
           "description": "",
           "price": 90,
           "available": true,
@@ -632,7 +632,7 @@
           "id": "p063"
         },
         {
-          "name": "بلوبيري",
+          "name": "Blueberry",
           "description": "",
           "price": 100,
           "available": true,
@@ -641,7 +641,7 @@
           "id": "p064"
         },
         {
-          "name": "بطيخ",
+          "name": "Watermelon",
           "description": "",
           "price": 90,
           "available": true,
@@ -650,7 +650,7 @@
           "id": "p065"
         },
         {
-          "name": "ليمون نعناع",
+          "name": "Lemon Mint",
           "description": "",
           "price": 80,
           "available": true,
@@ -666,7 +666,7 @@
       "image": null,
       "items": [
         {
-          "name": "لاتيه هوت",
+          "name": "Hot Latte",
           "description": "",
           "price": 100,
           "available": true,
@@ -675,7 +675,7 @@
           "id": "p067"
         },
         {
-          "name": "اسبانش هوت",
+          "name": "Hot Spanish",
           "description": "",
           "price": 110,
           "available": true,
@@ -684,7 +684,7 @@
           "id": "p068"
         },
         {
-          "name": "لاتيه",
+          "name": "Latte",
           "description": "",
           "price": 100,
           "available": true,
@@ -693,7 +693,7 @@
           "id": "p069"
         },
         {
-          "name": "اسبانيش",
+          "name": "Spanish",
           "description": "",
           "price": 115,
           "available": true,
@@ -702,7 +702,7 @@
           "id": "p070"
         },
         {
-          "name": "بلوبيري",
+          "name": "Blueberry",
           "description": "",
           "price": 110,
           "available": true,
@@ -711,7 +711,7 @@
           "id": "p071"
         },
         {
-          "name": "فراوله",
+          "name": "Strawberry",
           "description": "",
           "price": 110,
           "available": true,
@@ -720,7 +720,7 @@
           "id": "p072"
         },
         {
-          "name": "كراميل",
+          "name": "Caramel",
           "description": "",
           "price": 110,
           "available": true,
@@ -729,7 +729,7 @@
           "id": "p073"
         },
         {
-          "name": "مانجا",
+          "name": "Mango",
           "description": "",
           "price": 110,
           "available": true,
@@ -745,7 +745,7 @@
       "image": null,
       "items": [
         {
-          "name": "دبى",
+          "name": "Dubai",
           "description": "",
           "price": 180,
           "available": true,
@@ -754,7 +754,7 @@
           "id": "p075"
         },
         {
-          "name": "باجيك كريب",
+          "name": "Basic Crepe",
           "description": "",
           "price": 140,
           "available": true,
@@ -763,7 +763,7 @@
           "id": "p076"
         },
         {
-          "name": "نوتيلا",
+          "name": "Nutella",
           "description": "",
           "price": 120,
           "available": true,
@@ -772,7 +772,7 @@
           "id": "p077"
         },
         {
-          "name": "فوتتشيني",
+          "name": "Fettuccine",
           "description": "",
           "price": 120,
           "available": true,
@@ -788,7 +788,7 @@
       "image": null,
       "items": [
         {
-          "name": "نوتيلا",
+          "name": "Nutella",
           "description": "",
           "price": 70,
           "available": true,
@@ -797,7 +797,7 @@
           "id": "p079"
         },
         {
-          "name": "لوتس",
+          "name": "Lotus",
           "description": "",
           "price": 70,
           "available": true,
@@ -806,7 +806,7 @@
           "id": "p080"
         },
         {
-          "name": "بستاتيو",
+          "name": "Pistachio",
           "description": "",
           "price": 120,
           "available": true,
@@ -815,7 +815,7 @@
           "id": "p081"
         },
         {
-          "name": "كيندر",
+          "name": "Kinder",
           "description": "",
           "price": 120,
           "available": true,
@@ -824,7 +824,7 @@
           "id": "p082"
         },
         {
-          "name": "فورسيزون",
+          "name": "Four Seasons",
           "description": "",
           "price": 120,
           "available": true,
@@ -833,7 +833,7 @@
           "id": "p083"
         },
         {
-          "name": "نوتيلا فروت",
+          "name": "Nutella Fruit",
           "description": "",
           "price": 100,
           "available": true,
@@ -842,7 +842,7 @@
           "id": "p084"
         },
         {
-          "name": "وايت اوريو",
+          "name": "White Oreo",
           "description": "",
           "price": 120,
           "available": true,
@@ -858,7 +858,7 @@
       "image": null,
       "items": [
         {
-          "name": "فواكه",
+          "name": "Fruits",
           "description": "",
           "price": 30,
           "available": true,
@@ -867,7 +867,7 @@
           "id": "p086"
         },
         {
-          "name": "مكسرات",
+          "name": "Nuts",
           "description": "",
           "price": 30,
           "available": true,
@@ -883,7 +883,7 @@
       "image": null,
       "items": [
         {
-          "name": "نوتيلا — 12 قطعة",
+          "name": "Nutella — 12 pcs",
           "description": "",
           "price": 60,
           "available": true,
@@ -892,7 +892,7 @@
           "id": "p088"
         },
         {
-          "name": "نوتيلا — 20 قطعة",
+          "name": "Nutella — 20 pcs",
           "description": "",
           "price": 90,
           "available": true,
@@ -901,7 +901,7 @@
           "id": "p089"
         },
         {
-          "name": "لوتس — 12 قطعة",
+          "name": "Lotus — 12 pcs",
           "description": "",
           "price": 60,
           "available": true,
@@ -910,7 +910,7 @@
           "id": "p090"
         },
         {
-          "name": "لوتس — 20 قطعة",
+          "name": "Lotus — 20 pcs",
           "description": "",
           "price": 90,
           "available": true,
@@ -919,7 +919,7 @@
           "id": "p091"
         },
         {
-          "name": "كيندر — 12 قطعة",
+          "name": "Kinder — 12 pcs",
           "description": "",
           "price": 80,
           "available": true,
@@ -928,7 +928,7 @@
           "id": "p092"
         },
         {
-          "name": "كيندر — 20 قطعة",
+          "name": "Kinder — 20 pcs",
           "description": "",
           "price": 110,
           "available": true,
@@ -937,7 +937,7 @@
           "id": "p093"
         },
         {
-          "name": "بيستاشيو — 12 قطعة",
+          "name": "Pistachio — 12 pcs",
           "description": "",
           "price": 80,
           "available": true,
@@ -946,7 +946,7 @@
           "id": "p094"
         },
         {
-          "name": "بيستاشيو — 20 قطعة",
+          "name": "Pistachio — 20 pcs",
           "description": "",
           "price": 110,
           "available": true,
@@ -955,7 +955,7 @@
           "id": "p095"
         },
         {
-          "name": "فورسيزون — 12 قطعة",
+          "name": "Four Seasons — 12 pcs",
           "description": "",
           "price": 80,
           "available": true,
@@ -964,7 +964,7 @@
           "id": "p096"
         },
         {
-          "name": "فورسيزون — 20 قطعة",
+          "name": "Four Seasons — 20 pcs",
           "description": "",
           "price": 110,
           "available": true,
@@ -973,7 +973,7 @@
           "id": "p097"
         },
         {
-          "name": "فروت — 12 قطعة",
+          "name": "Fruit — 12 pcs",
           "description": "",
           "price": 80,
           "available": true,
@@ -982,7 +982,7 @@
           "id": "p098"
         },
         {
-          "name": "فروت — 20 قطعة",
+          "name": "Fruit — 20 pcs",
           "description": "",
           "price": 110,
           "available": true,
@@ -991,7 +991,7 @@
           "id": "p099"
         },
         {
-          "name": "اوريو — 12 قطعة",
+          "name": "Oreo — 12 pcs",
           "description": "",
           "price": 80,
           "available": true,
@@ -1000,7 +1000,7 @@
           "id": "p100"
         },
         {
-          "name": "اوريو — 20 قطعة",
+          "name": "Oreo — 20 pcs",
           "description": "",
           "price": 110,
           "available": true,
@@ -1009,7 +1009,7 @@
           "id": "p101"
         },
         {
-          "name": "وايت — 12 قطعة",
+          "name": "White — 12 pcs",
           "description": "",
           "price": 60,
           "available": true,
@@ -1018,7 +1018,7 @@
           "id": "p102"
         },
         {
-          "name": "وايت — 20 قطعة",
+          "name": "White — 20 pcs",
           "description": "",
           "price": 90,
           "available": true,
@@ -1034,7 +1034,7 @@
       "image": null,
       "items": [
         {
-          "name": "كلاسيك",
+          "name": "Classic",
           "description": "",
           "price": 80,
           "available": true,
@@ -1043,7 +1043,7 @@
           "id": "p104"
         },
         {
-          "name": "مارشميلو",
+          "name": "Marshmallow",
           "description": "",
           "price": 100,
           "available": true,
@@ -1052,7 +1052,7 @@
           "id": "p105"
         },
         {
-          "name": "مارشميلو فلف",
+          "name": "Marshmallow Fluff",
           "description": "",
           "price": 100,
           "available": true,
@@ -1061,7 +1061,7 @@
           "id": "p106"
         },
         {
-          "name": "تشولوز",
+          "name": "Chocolos",
           "description": "",
           "price": 100,
           "available": true,
@@ -1077,7 +1077,7 @@
       "image": null,
       "items": [
         {
-          "name": "نوتيلا",
+          "name": "Nutella",
           "description": "",
           "price": 90,
           "available": true,
@@ -1086,7 +1086,7 @@
           "id": "p108"
         },
         {
-          "name": "ساده",
+          "name": "Plain",
           "description": "",
           "price": 80,
           "available": true,
@@ -1095,7 +1095,7 @@
           "id": "p109"
         },
         {
-          "name": "مكسرات",
+          "name": "Nuts",
           "description": "",
           "price": 80,
           "available": true,
@@ -1104,7 +1104,7 @@
           "id": "p110"
         },
         {
-          "name": "فروت",
+          "name": "Fruit",
           "description": "",
           "price": 90,
           "available": true,
@@ -1113,7 +1113,7 @@
           "id": "p111"
         },
         {
-          "name": "تري",
+          "name": "Tri",
           "description": "",
           "price": 130,
           "available": true,
@@ -1129,7 +1129,7 @@
       "image": null,
       "items": [
         {
-          "name": "نوتيلا",
+          "name": "Nutella",
           "description": "",
           "price": 40,
           "available": true,
@@ -1138,7 +1138,7 @@
           "id": "p113"
         },
         {
-          "name": "لوتس",
+          "name": "Lotus",
           "description": "",
           "price": 40,
           "available": true,
@@ -1147,7 +1147,7 @@
           "id": "p114"
         },
         {
-          "name": "بيستاشيو",
+          "name": "Pistachio",
           "description": "",
           "price": 60,
           "available": true,
@@ -1156,7 +1156,7 @@
           "id": "p115"
         },
         {
-          "name": "كيندر",
+          "name": "Kinder",
           "description": "",
           "price": 60,
           "available": true,
@@ -1165,7 +1165,7 @@
           "id": "p116"
         },
         {
-          "name": "اوريو",
+          "name": "Oreo",
           "description": "",
           "price": 60,
           "available": true,
@@ -1174,7 +1174,7 @@
           "id": "p117"
         },
         {
-          "name": "فراوله",
+          "name": "Strawberry",
           "description": "",
           "price": 60,
           "available": true,
@@ -1190,7 +1190,7 @@
       "image": null,
       "items": [
         {
-          "name": "تركي Single",
+          "name": "Turkish Single",
           "description": "",
           "price": 35,
           "available": true,
@@ -1199,7 +1199,7 @@
           "id": "p119"
         },
         {
-          "name": "تركي Double",
+          "name": "Turkish Double",
           "description": "",
           "price": 55,
           "available": true,
@@ -1208,7 +1208,7 @@
           "id": "p120"
         },
         {
-          "name": "فرنساوي Single",
+          "name": "French Single",
           "description": "",
           "price": 45,
           "available": true,
@@ -1217,7 +1217,7 @@
           "id": "p121"
         },
         {
-          "name": "فرنساوي Double",
+          "name": "French Double",
           "description": "",
           "price": 65,
           "available": true,
@@ -1226,7 +1226,7 @@
           "id": "p122"
         },
         {
-          "name": "بندق Single",
+          "name": "Hazelnut Single",
           "description": "",
           "price": 45,
           "available": true,
@@ -1235,7 +1235,7 @@
           "id": "p123"
         },
         {
-          "name": "بندق Double",
+          "name": "Hazelnut Double",
           "description": "",
           "price": 65,
           "available": true,
@@ -1251,7 +1251,7 @@
       "image": null,
       "items": [
         {
-          "name": "شاي",
+          "name": "Tea",
           "description": "",
           "price": 20,
           "available": true,
@@ -1260,7 +1260,7 @@
           "id": "p125"
         },
         {
-          "name": "شاي اخضر",
+          "name": "Green Tea",
           "description": "",
           "price": 25,
           "available": true,
@@ -1269,7 +1269,7 @@
           "id": "p126"
         },
         {
-          "name": "شاي كرك",
+          "name": "Karak Tea",
           "description": "",
           "price": 60,
           "available": true,
@@ -1278,7 +1278,7 @@
           "id": "p127"
         },
         {
-          "name": "سحلب",
+          "name": "Sahlab",
           "description": "",
           "price": 50,
           "available": true,
@@ -1287,7 +1287,7 @@
           "id": "p128"
         },
         {
-          "name": "سحلب مكسرات",
+          "name": "Sahlab with Nuts",
           "description": "",
           "price": 70,
           "available": true,
@@ -1296,7 +1296,7 @@
           "id": "p129"
         },
         {
-          "name": "هوت سيدر",
+          "name": "Hot Cider",
           "description": "",
           "price": 50,
           "available": true,
@@ -1305,7 +1305,7 @@
           "id": "p130"
         },
         {
-          "name": "اعشاب",
+          "name": "Herbal Tea",
           "description": "",
           "price": 25,
           "available": true,
