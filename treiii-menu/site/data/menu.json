@@ -1314,6 +1314,157 @@
           "id": "p131"
         }
       ]
+    },
+    {
+      "id": "c18",
+      "name": "Desserts",
+      "image": null,
+      "items": [
+        {
+          "name": "Classic Cookies",
+          "description": "",
+          "price": 40,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p200"
+        },
+        {
+          "name": "Double Chocolate Cookies",
+          "description": "",
+          "price": 45,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p201"
+        },
+        {
+          "name": "Red Velvet Cookies",
+          "description": "",
+          "price": 45,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p202"
+        },
+        {
+          "name": "Cookie Cake",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p203"
+        },
+        {
+          "name": "Tiramisu",
+          "description": "",
+          "price": 110,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p204"
+        },
+        {
+          "name": "Tiramisu Beads",
+          "description": "",
+          "price": 115,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p205"
+        },
+        {
+          "name": "Red Velvet Cake",
+          "description": "",
+          "price": 80,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p206"
+        },
+        {
+          "name": "Matilda Cake",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p207"
+        },
+        {
+          "name": "Snickers Cake",
+          "description": "",
+          "price": 100,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p208"
+        },
+        {
+          "name": "Kinder Cake",
+          "description": "",
+          "price": 105,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p209"
+        },
+        {
+          "name": "Classic Cheesecake",
+          "description": "",
+          "price": 70,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p210"
+        },
+        {
+          "name": "Fluffy Cheesecake",
+          "description": "",
+          "price": 90,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p211"
+        },
+        {
+          "name": "San Sebastian",
+          "description": "",
+          "price": 60,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p212"
+        },
+        {
+          "name": "Brownies",
+          "description": "",
+          "price": 55,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p213"
+        },
+        {
+          "name": "Cinnabon",
+          "description": "",
+          "price": 65,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p214"
+        },
+        {
+          "name": "Extra",
+          "description": "",
+          "price": 20,
+          "available": true,
+          "badge": null,
+          "image": null,
+          "id": "p215"
+        }
+      ]
     }
   ]
 }
